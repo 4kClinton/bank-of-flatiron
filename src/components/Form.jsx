@@ -115,6 +115,38 @@ function Form({ AddToForm }) {
                         </thead>
                         <tbody>
                           {/*the Rows will be appended here */}
+                        <tr>
+                            <td>2024-04-25</td>
+                            <td>Groceries</td>
+                            <td>Expense</td>
+                            <td>Ksh 200</td>
+                            
+                          </tr>
+                          <tr>
+                            <td>2024-04-24</td>
+                            <td>Gas</td>
+                            <td>Expense</td>
+                            <td>Ksh 1200</td>
+                          </tr>
+                          <tr>
+                            <td>2024-04-22</td>
+                            <td>Movie Tickets</td>
+                            <td>Expense</td>
+                            <td>Ksh 200</td>
+                          </tr>
+                           <tr>
+                            <td>2024-04-23</td>
+                            <td>Dinner</td>
+                            <td>Expense</td>
+                            <td>Ksh 2000</td>
+                          </tr>
+                          <tr>
+                            <td>2024-04-21</td>
+                            <td>Lunch</td>
+                            <td>Expense</td>
+                            <td>Ksh 200</td>
+                          </tr>
+
                         </tbody>
                       </table>
 
